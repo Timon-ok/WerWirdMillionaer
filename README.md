@@ -1,6 +1,6 @@
 # Wer wird Millionär – Konsolenspiel in Java
 
-**Hinweis:** Für Dokumentation --> **[Wiki](https://github.com/DEIN-REPO/wiki)**
+**Hinweis:** Für Dokumentation --> **[Wiki](https://github.com/Timon-ok/WerWirdMillionaer/wiki)**
 
 Dies ist eine Java-Implementierung des bekannten Spiels **"Wer wird Millionär"**, basierend auf den originalen Spielregeln. Das Spiel bietet 15 Fragen, mehrere Joker und Gewinnstufen sowie die Möglichkeit, den aktuellen Gewinn jederzeit mitzunehmen oder das Risiko einzugehen, alles zu verlieren.
 
